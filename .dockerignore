@@ -1,0 +1,9 @@
+**/node_modules
+**/dist
+**/.turbo
+**/.env
+**/.env.*
+**/logs
+.git
+.DS_Store
+docker-compose*.yml
